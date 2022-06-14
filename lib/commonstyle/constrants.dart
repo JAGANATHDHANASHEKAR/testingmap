@@ -1,0 +1,21 @@
+import 'package:flutter/cupertino.dart';
+
+const blackColor = Color.fromARGB(255, 0, 0, 0);
+const black = Color(0xff202124);
+const whiteColor = Color(0xffFFFFFF);
+const greyDividerColor = Color(0xffEAECF0);
+const orangeColor = Color(0xffE25100);
+const darkGreyColor = Color(0xff6B7586);
+const liteWhiteColor = Color(0xffF6F4F5);
+const categoryBgColor = Color(0xffF5F7FB);
+const thinDividerColor = Color(0xffEAECF0);
+const redColor = Color(0xffE22900);
+const mediumGreyColor = Color(0xffC4CAD0);
+const liteGreyColor = Color(0xffFBFCFF);
+const greydividerColor = Color(0xffEAECF0);
+const greyReadTextColor = Color(0xff98A0AE);
+const greenTextColor = Color(0xff278C4C);
+const greyTextColorDark = Color(0xff475C7C);
+const greyBackgroundDarkColor = Color(0xffF5F7FB);
+// const gradientColor = Color(0xffE0E4ED);
+// const double kDefaultPadding = 20.0;
